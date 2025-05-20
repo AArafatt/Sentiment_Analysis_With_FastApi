@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model and large files
+*.pt
+*.bin
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs and outputs
+*.log
+*.csv
+outputs/
+
+# Env
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
